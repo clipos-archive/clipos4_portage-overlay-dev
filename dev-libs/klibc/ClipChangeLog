@@ -1,0 +1,7 @@
+
+*klibc-1.5.25-r1 (17 Mar 2014)
+
+  17 Mar 2014; Yves-Alexis Perez <clipos@ssi.gouv.fr>
+  +klibc-1.5.25-r1.ebuild, -klibc-1.5.25.ebuild:
+  Build klibc with -nostdlib, fix FTBFS in splashutils with gcc-4.7 (fix
+  backported for later gentoo ebuilds).

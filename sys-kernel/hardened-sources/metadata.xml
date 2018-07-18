@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>kernel</herd>
+	<herd>hardened</herd>
+	<maintainer>
+		<email>phreak@gentoo.org</email>
+		<name>Christian Heim</name>
+	</maintainer>
+	<longdescription>
+		hardened-sources is based upon genpatches-base, and adds the grsecurity
+		patch from http://www.grsecurity.net, which also includes PaX.
+	</longdescription>
+</pkgmetadata>

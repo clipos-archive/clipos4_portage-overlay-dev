@@ -1,0 +1,7 @@
+# ChangeLog for dev-lib/safe-iop
+
+*safe-iop-0.3.1 (17 Jul 2012)
+
+  17 Jul 2012; Vincent Strubel <clipos@ssi.gouv.fr>
+  safe-iop-0.3.1.ebuild:
+  Initial import, originally from chtekk-apps overlay.
