@@ -1,7 +1,0 @@
-# ClipChangeLog for dev-python/setuptools
-
-*setuptools-0.6.30-r3 (10 Apr 2013)
-
-  10 Apr 2013; Yves-Alexis Perez <clipos@ssi.gouv.fr>
-  +setuptools-0.6.30-r3.ebuild, -setuptools-0.6.30-r2.ebuild:
-  Remove pypy from PYTHON_TARGETS for now.
