@@ -20,6 +20,7 @@ DEPEND="sys-devel/gettext"
 RDEPEND="${DEPEND}"
 
 PATCHES=( "${FILESDIR}"/compatibility-with-POSIX-module.diff )
+addwrite "/usr/local/lib64/"
 
 # Disabling the tests - not ready for prime time - mcummings
 #SRC_TEST="do"
