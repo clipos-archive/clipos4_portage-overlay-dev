@@ -1,1 +1,0 @@
-.grub.ebuild.0
